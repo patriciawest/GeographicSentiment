@@ -6,7 +6,8 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 - [Dashboard](#dashboard)
 - [Usage](#usage)
 
-## Output
+## Dashboard
+![](demo/choropleth.png)
 ### Choropleth with hover information about sentiment:
 ![](demo/hoverinfo.gif)
 
@@ -20,7 +21,8 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 ![](demo/direction.gif)
 
 ### Sentiment and emotion timeseries:
-![](demo/newplot (3).png)
+![](demo/timeseries_sentiment.png)
+![](demo/timeseries_emotion.png)
 
 ### Sentiment and emotion timseries for chosen country:
 ![](demo/timeseries_usa.gif)
