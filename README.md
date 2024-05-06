@@ -6,36 +6,36 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 - [Dashboard](#dashboard)
 - [Usage](#usage)
 
-## Dashboard
+# Dashboard
 ![](demo/choropleth.png)
-### Choropleth with hover information about sentiment:
+## Choropleth with hover information about sentiment:
 ![](demo/hoverinfo.gif)
 
-### Change sentiment model:
+## Change sentiment model:
 ![](demo/model.gif)
 
-### Change topics:
+## Change topics:
 ![](demo/topic.gif)
 
-### Change sentiment type:
+## Change sentiment type:
 ![](demo/direction.gif)
 
-### Sentiment and emotion timeseries:
+## Sentiment and emotion timeseries:
 ![](demo/timeseries_sentiment.png)
 ![](demo/timeseries_emotion.png)
 
-### Sentiment and emotion timseries for chosen country:
+## Sentiment and emotion timseries for chosen country:
 ![](demo/timeseries_usa.gif)
 
-### Correlation of sentiment models animation:
+## Correlation of sentiment models animation:
 ![](demo/scatter.gif)
 
-### Random subset of comments:
+## Random subset of comments:
 ![](demo/comments.gif)
 
 
 
-## Usage
+# Usage
 
 Provide instructions on how to install the project and its dependencies. Include any necessary commands or steps.
 
