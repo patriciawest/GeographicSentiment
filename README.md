@@ -8,10 +8,7 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 - [Usage](#usage)
 
 ## Output
-<video width="320" height="240" controls>
-  <source src="demo/datasci1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](demo/datasci1.gif)
 
 ## Installation
 
