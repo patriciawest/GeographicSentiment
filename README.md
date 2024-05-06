@@ -3,19 +3,35 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 
 
 ## Table of Contents
-- [Output](#output)
-- [Installation](#installation)
+- [Dashboard](#dashboard)
 - [Usage](#usage)
 
 ## Output
-![](demo/datasci1.gif)
+### Choropleth with hover information about sentiment:
+![](demo/hoverinfo.gif)
 
-## Installation
+### Change sentiment model:
+![](demo/model.gif)
 
-Provide instructions on how to install the project and its dependencies. Include any necessary commands or steps.
+### Change topics:
+![](demo/topic.gif)
 
-```bash
-pip install my_project
+### Change sentiment type:
+![](demo/direction.gif)
+
+### Sentiment and emotion timeseries:
+![](demo/newplot (3).png)
+
+### Sentiment and emotion timseries for chosen country:
+![](demo/timeseries_usa.gif)
+
+### Correlation of sentiment models animation:
+![](demo/scatter.gif)
+
+### Random subset of comments:
+![](demo/comments.gif)
+
+
 
 ## Usage
 
