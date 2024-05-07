@@ -41,3 +41,6 @@ Provide instructions on how to install the project and its dependencies. Include
 
 ```bash
 pip install my_project
+
+> [!WARNING]
+> The dashboard is quite slow, please be patient. For a sped-up, full demo of its capabilities see [this video](https://uob-my.sharepoint.com/:v:/g/personal/fy20856_bristol_ac_uk/EZu-SdbiKeFLtZJxxV8NWZgBClyL2PSqqOmKul_PeWyDbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQGpWw).
