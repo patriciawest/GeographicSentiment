@@ -4,8 +4,8 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 
 ## Table of Contents
 - [Dashboard](#dashboard)
-- [Supplementary Plots](#Supplementary Plots)
-- [Hot to Use](#usage)
+- [Supplementary Plots](#Supplementary_Plots)
+- [How to Use](#usage)
 
 # Dashboard - [link to full video demo](https://uob-my.sharepoint.com/:v:/g/personal/fy20856_bristol_ac_uk/EZu-SdbiKeFLtZJxxV8NWZgBClyL2PSqqOmKul_PeWyDbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQGpWw)
 > Choropleth of directed (mention) sentiment with VADER model
