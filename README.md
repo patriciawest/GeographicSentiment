@@ -19,6 +19,7 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 ![](demo/topic.gif)
 
 ## Change sentiment type:
+> Changes both choropleth and timeseries plots
 ![](demo/direction.gif)
 
 ## Sentiment and emotion timeseries:
