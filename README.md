@@ -6,7 +6,7 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 - [Dashboard](#dashboard)
 - [Usage](#usage)
 
-# Dashboard - [link to high quality video demo](https://uob-my.sharepoint.com/:f:/g/personal/fy20856_bristol_ac_uk/Er42IqFsquRHpbNx8AE2EiMBY8SyqG2FwGYVkNhSxnOgmA?e=6jZUTN)
+# Dashboard - [link to high quality video demo](https://uob-my.sharepoint.com/:v:/g/personal/fy20856_bristol_ac_uk/EZu-SdbiKeFLtZJxxV8NWZgBClyL2PSqqOmKul_PeWyDbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQGpWw)
 ![](demo/choropleth.png)
 ## Choropleth with hover information about sentiment:
 ![](demo/hoverinfo.gif)
