@@ -4,6 +4,7 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 
 ## Table of Contents
 - [Dashboard](#dashboard)
+- [Supplementary Plots](#supplementary_plots)
 - [Usage](#usage)
 
 # Dashboard - [link to full video demo](https://uob-my.sharepoint.com/:v:/g/personal/fy20856_bristol_ac_uk/EZu-SdbiKeFLtZJxxV8NWZgBClyL2PSqqOmKul_PeWyDbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQGpWw)
@@ -34,6 +35,13 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 
 ## Random subset of comments:
 ![](demo/comments.gif)
+
+
+# Supplementary Plots
+These additional plots supplement the information in the report.
+
+> The correlation between the two BERT emotional sentiment models. Anger is the highest correlated emotion.
+![](demo/bert_corr.png)
 
 
 
