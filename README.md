@@ -40,17 +40,21 @@ This dashboard is created in support of the Applied Data Science coursework. It 
 # Supplementary Plots
 These additional plots supplement the information in the report.
 
+> The correlation between the sentiment analysis models.
+![](demo/model_corr.png)
+>
+> 
 > The correlation between the two BERT emotional sentiment models. Anger is the highest correlated emotion.
 ![](demo/bert_corr.png)
 
 
-
 # Usage
 
-Provide instructions on how to install the project and its dependencies. Include any necessary commands or steps.
+Clone into repository.
 
-```bash
-pip install my_project
-```
+Run dashboard.ipynb.
+
+To see dashboard: [use this link](http://localhost:8052/)
+
 > [!WARNING]
 > The dashboard is quite slow, please be patient. For a sped-up, full demo of its capabilities see [this video](https://uob-my.sharepoint.com/:v:/g/personal/fy20856_bristol_ac_uk/EZu-SdbiKeFLtZJxxV8NWZgBClyL2PSqqOmKul_PeWyDbQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vQGpWw).
